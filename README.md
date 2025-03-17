@@ -13,7 +13,7 @@
    ```
 1. Run `app.py` from command line (Terminal in Linux/MacOS, CMD in Windows):
    ```
-   python app.py < "test"
+   python app.py < log.txt
    ```
 1. Follow the lab instruction.
 1. Remember to commit each added feature or fix.
